@@ -22,6 +22,13 @@ conda env create -f environment.yml
 python .\src\console\predict.py --input_point_cloud_file "E:\python\Aicedrone_PC_ANN\example\input_classification.las" --scene_type "railway" --input_model_path "E:\python\Aicedrone_PC_ANN\example\output_train" --neighborhood_radius 0.030 --save_all_features 0 --output_classification_field_name "classification" --output_point_cloud_file "E:\python\Aicedrone_PC_ANN\example\output_classification.las" 
 ```
 
+## **Alonso Garrido Limiñana**
+
+Researcher, TIDOP
+
+University of Salamanca - USAL, 
+https://tidop.usal.es/miembros/alonso-garrido/
+
 ## **Alberto Morcillo Sanz**
 
 Researcher, TIDOP
