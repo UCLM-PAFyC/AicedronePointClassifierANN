@@ -15,7 +15,7 @@ conda env create -f environment.yml
 
 * Entrenamiento, modificando las rutas y parámetros convenientemente:
 ```
-* python .\src\console\train.py --point_cloud_file "E:\python\Aicedrone_PC_ANN\example\input_training.las" --scene_type "railway" --field_name "Classification" --epochs 210 --batch_size 80000 --neighborhood_radius 0.030 --output_path "E:\python\Aicedrone_PC_ANN\example\output_train" 
+* python train.py --point_cloud_file "C:\temp\example\input_training.las" --scene_type "railway" --field_name "Classification" --epochs 210 --batch_size 80000 --neighborhood_radius 0.030 --output_path "C:\temp\example\output_train" 
 ```
 * Clasificación, modificando las rutas y parámetros convenientemente:
 ```
