@@ -11,7 +11,7 @@ conda env create -f environment.yml
 ```
 
 ## Ejemplo de uso
-* Descargar los datos de ejemplo de: https://drive.google.com/drive/folders/1LsEKsxo7t68fYsXaLXeFMSzOULAB6fuz?usp=drive_link
+* Descargar los datos de ejemplo de: https://drive.google.com/drive/folders/1msImEEzMFFp9f3xvUVCvM7kWPAbLoh3Y?usp=drive_link
 
 * Entrenamiento, modificando las rutas y parámetros convenientemente:
 ```
