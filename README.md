@@ -19,7 +19,7 @@ python train.py --point_cloud_file "C:\temp\example\input_training.las" --scene_
 ```
 * Clasificación, modificando las rutas y parámetros convenientemente:
 ```
-python .\src\console\predict.py --input_point_cloud_file "E:\python\Aicedrone_PC_ANN\example\input_classification.las" --scene_type "railway" --input_model_path "E:\python\Aicedrone_PC_ANN\example\output_train" --neighborhood_radius 0.030 --save_all_features 0 --output_classification_field_name "classification" --output_point_cloud_file "E:\python\Aicedrone_PC_ANN\example\output_classification.las" 
+python predict.py --input_point_cloud_file "C:\temp\example\input_classification.las" --scene_type "railway" --input_model_path "C:\temp\example\output_train" --neighborhood_radius 0.030 --save_all_features 0 --output_classification_field_name "classification" --output_point_cloud_file "C:\temp\example\output_classification.las" 
 ```
 
 ## **Alonso Garrido Limiñana**
