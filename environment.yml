@@ -1,4 +1,4 @@
-name: PointClassifier-ANN
+name: AicedronePointClassifierANN
 channels:
   - anaconda
   - defaults
@@ -239,4 +239,4 @@ dependencies:
     - tzdata==2023.3
     - wandb==0.16.3
     - werkzeug==3.0.1
-prefix: C:\Users\EquipoTidop\anaconda3\envs\PointClassifier-ANN
+
